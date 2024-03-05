@@ -1,6 +1,6 @@
-# Knowledge-Import-Tools
+# Knowledge-Import-Tool
 
-This is the first I have done with a real client. This was developed as a group project for IQADOT, and it is a platform that integrates with the company's pre-existing platform, and provides the functionality of importing any form of data into the 'Articles' section of it. The application is meant for responsible employees who know the technical details of working with data sources. The application can work with API's, external databases, large excel files of pdf's. Every decision was discussed with the client and made to his liking.
+This is the first project I have done with a real client. This was developed as a group project for IQADOT, and it is a platform that integrates with the company's pre-existing platform. It provides the functionality of importing any form of data into the 'Articles' section of the pre-existing platform. The application is meant for responsible employees who know the technical details of working with digital data in large quantities. The application can work with API's, external databases, large excel files or pdf's. Every decision was discussed with the client and approved before development.
 
 # Application Features
 
@@ -16,7 +16,7 @@ This is the first I have done with a real client. This was developed as a group 
 
 # Technologies Used and Architecture
 
--**Chosen Development Technologies**: In the back-end the application is using Node.ts, Express framework for routing, securing and handling requests. The front-end uses ReactTs as the development framework, along with Tailwind-css for styling and responsiveness and Material UI for better animations. The database connection is established via a private VPN network, and it is using MySQL.
+-**Chosen Development Technologies**: The decision made wa to use TypeScript as the main programming language. In the back-end the application is using Node.ts, Express framework for routing, securing and handling requests. The front-end uses ReactTs as the development framework, along with Tailwind-css for styling and responsiveness and Material UI for better animations. The database connection is established via a private VPN network, and it is using MySQL.
 
 - **Architectural Choices**: We followed a 5-layer design for the full-stack of the application, making use of interfaces and dependency injection in layer-to-layer communication. The class design follows the principles of OOP as well as the SOLID principles. The database was designed using the Table-Per-Type model.
 
