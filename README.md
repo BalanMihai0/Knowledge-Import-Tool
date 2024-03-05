@@ -12,7 +12,7 @@ This is the first I have done with a real client. This was developed as a group 
 
 - **Data Preview**: After having a source, knowing what you are about to send to the IQADOT platform before you click the button is essential. The application makes sure you are not sending too many objects, and allows you to send individual bits of information from the data preview. For example, Rijksmusem has large number of art objects, which can be extracted if the source is configured properly. You can choose to send the batch of selected objects or to send them individually. When sending individually, you can also make additional requests for details before exporting.
 
--**Data Export**: The data imported and previewed needs to be exported to the IQADOT acrticles platform. The application has a built in IQADOT API configuration and channel selection. The data is pre-formatted in HTML, so it is displayed in a readable manner. For example, a large Excel file will turn into a table, a JSON object with an image will have the image displayed and resized, a pdf file will keep it's pagination but adapt the font size, etc.
+- **Data Export**: The data imported and previewed needs to be exported to the IQADOT acrticles platform. The application has a built in IQADOT API configuration and channel selection. The data is pre-formatted in HTML, so it is displayed in a readable manner. For example, a large Excel file will turn into a table, a JSON object with an image will have the image displayed and resized, a pdf file will keep it's pagination but adapt the font size, etc.
 
 # Technologies Used and Architecture
 
