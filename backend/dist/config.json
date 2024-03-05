@@ -1,0 +1,5 @@
+{
+    "localhost": "http://localhost:3001",
+    "jwtSecret": "F910E158E9C1656F68B1B5D1C316766DE98D2AD2EF3BFB44F78E9CCCFD2",
+    "basic-auth": "Basic QXV0dW1uOjRhN2RmNDVkLTQ2MDctNjIxMC0yOTlmLWZiMDc0YmU3MmQ5Mg=="
+}

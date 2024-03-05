@@ -1,0 +1,9 @@
+.bg-primary {
+    background-color: #119E96;
+}
+
+.hover\:bg-light-sidebar:hover {
+    --tw-bg-opacity: 1;
+    background-color: rgb(99 200 196 / var(--tw-bg-opacity));
+    transition-duration: 0.5s;
+}
